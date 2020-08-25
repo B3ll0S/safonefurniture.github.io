@@ -2,7 +2,7 @@
 
 /* Typography */
 body {
-  background: #fff;
+background: #fff;
 }
 p {
   color: #777;
